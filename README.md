@@ -48,7 +48,7 @@ The Power BI dashboard employs a range of visualizations for clarity and interac
 
 The complete Dynamic Procurement Analytics report, with all visualizations, is available for download:
 
-[Download the Dynamic Procurement Analytics PDF Report](docs/Dynamic_Procurement_Analytics.pdf)
+[Download the Dynamic Procurement Analytics PDF Report](https://github.com/YashRaj1240/Dynamic-Procurement-Analytics/blob/8e3bcc85dd34f8c46d32a83bfc316bfd87f205dd/Dynamic%20Procurement%20Analytics.pdf)
 
 ## Conclusion
 
