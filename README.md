@@ -1,6 +1,6 @@
 # Dynamic Procurement Analytics
 
-![Dynamic Procurement Dashboard](images/dynamic_procurement_dashboard.png)
+![Dynamic Procurement Dashboard](https://github.com/YashRaj1240/Dynamic-Procurement-Analytics/blob/33bdcc0a65b7712b16412da3fa32b7ee3227e28f/Dynamic%20Procurement%20Analytics.png)
 
 ## Overview
 
